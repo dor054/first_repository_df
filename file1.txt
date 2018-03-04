@@ -3,5 +3,6 @@ Create file 1
 DF 1
 
 Note 1
+Note 2
 
 End
